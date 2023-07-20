@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PROYECTO_INVENTARIOModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Detalle_Cliente">
+    <Key>
+      <PropertyRef Name="codclient" />
+    </Key>
+    <Property Name="codclient" Type="Int32" Nullable="false" />
+    <Property Name="nmclient" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="tlclient" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="drclient" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Detalle_Vendedor">
+    <Key>
+      <PropertyRef Name="codvendedor" />
+    </Key>
+    <Property Name="codvendedor" Type="Int32" Nullable="false" />
+    <Property Name="nmvendedor" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="tlvendedor" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="drvendedor" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Productos_Detalle">
+    <Key>
+      <PropertyRef Name="prodcodigo" />
+    </Key>
+    <Property Name="prodcodigo" Type="Int32" Nullable="false" />
+    <Property Name="prodnombre" Type="String" MaxLength="150" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="prodcantidad" Type="Int32" Nullable="false" />
+    <Property Name="proddescripcion" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="prodprecio" Type="Decimal" Precision="5" Scale="2" Nullable="false" />
+    <Property Name="prodmarca" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="PROYECTO_INVENTARIOEntities4" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Detalle_Cliente" EntityType="Self.Detalle_Cliente" />
+    <EntitySet Name="Detalle_Vendedor" EntityType="Self.Detalle_Vendedor" />
+    <EntitySet Name="Productos_Detalle" EntityType="Self.Productos_Detalle" />
+  </EntityContainer>
+</Schema>

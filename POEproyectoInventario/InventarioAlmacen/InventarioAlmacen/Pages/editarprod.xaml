@@ -1,0 +1,157 @@
+﻿<Page x:Class="InventarioAlmacen.Pages.editarprod"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:InventarioAlmacen.Pages"
+      mc:Ignorable="d" d:DesignWidth="850"
+      Title="editarprod" Height="650">
+    <Grid Background="#f1f3f5" Margin="0,0,58.6,347.6">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0"
+               Content="EDITAR DATOS"
+               FontSize="22"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Center" 
+               FontFamily="Quicksand Medium"/>
+        <Button x:Name="btn_Cancelar" 
+                Grid.Row="0"
+                Grid.Column="0"
+                Grid.ColumnSpan="2"
+                HorizontalAlignment="Right"
+                IsTabStop="False"
+                Content="Cancelar"
+                Margin="15,5,10,5"
+                Padding="10"
+                Height="40"
+                Width="100" FontSize="16" 
+                FontFamily="Inter" 
+                Background="#FFB73A3A" 
+                BorderBrush="Black" 
+                Foreground="White" 
+                Click="btn_Cancelar_Click_1"/>
+        <StackPanel Margin="15,0,0,0"
+                    Grid.Row="1"
+                    Orientation="Vertical">
+            <Label Content="Informacion de productos"
+                   Margin="0,0,10,0"
+                   FontSize="20"
+                   VerticalAlignment="Center" 
+                   FontFamily="Quicksand" 
+                   FontWeight="Bold" />
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Codigo:"
+                       Margin="0,0,0,0"
+                       FontWeight="Bold"
+                       FontSize="16"
+                       VerticalAlignment="Center" 
+                       FontFamily="Leelawadee UI Semilight" 
+                       Width="90" />
+                <TextBox Width="100"                        
+                         VerticalContentAlignment="Center"
+                         FontSize="14"
+                         x:Name="txtCodigoProducto"
+                         TabIndex="0" IsEnabled="False" />
+                <Label Content="Nombre:"
+                       Margin="180,0,0,0"
+                       FontWeight="Bold"
+                       FontSize="16"
+                       VerticalAlignment="Center" 
+                       FontFamily="Leelawadee UI Semilight"
+                       Width="90" />
+                <TextBox x:Name="txtNombreProducto" 
+                         Width="275"   
+                         VerticalContentAlignment="Center"
+                         FontSize="14"
+                         TabIndex="1" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal"
+                        Margin="0,5,0,0">
+                <Label Content="Cantidad:"
+                       Margin="0,0,0,0"
+                       FontWeight="Bold"
+                       FontSize="16"
+                       VerticalAlignment="Center"
+                       FontFamily="Leelawadee UI Semilight" 
+                       Width="90" />
+                <TextBox x:Name="txtCantidadProducto" 
+                         Width="100"                       
+                         TabIndex="2"                         
+                         VerticalContentAlignment="Center"
+                         FontSize="14" />
+                <Label Content="Descripcion:"
+                       Margin="180,0,0,0"
+                       FontWeight="Bold"
+                       FontSize="16"
+                       VerticalAlignment="Center" 
+                       FontFamily="Leelawadee UI Semilight"
+                       Width="90" />
+                <TextBox x:Name="txtDescripcionProducto" 
+                         Width="275"                        
+                         TabIndex="2"                       
+                         VerticalContentAlignment="Center"
+                         FontSize="14" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal"
+                        Margin="0,5,0,0">
+                <Label Content="Precio $:"
+                       Margin="0,0,0,0"
+                       FontWeight="Bold"
+                       FontSize="16"
+                       VerticalAlignment="Center" 
+                       FontFamily="Leelawadee UI Semilight" 
+                       Width="90" />
+                <TextBox x:Name="txtPrecioProducto" 
+                         Width="100"                       
+                         TabIndex="2"                        
+                         VerticalContentAlignment="Center"
+                         FontSize="14" />
+                <Label Content="Marca:"
+                       Margin="180,0,0,0"
+                       FontWeight="Bold"
+                       FontSize="16"
+                       VerticalAlignment="Center" 
+                       FontFamily="Leelawadee UI Semilight" 
+                       Width="90" />
+                <TextBox x:Name="txtProductoMarca" 
+                    Width="275"                       
+                    TabIndex="2"                        
+                    VerticalContentAlignment="Center"
+                    FontSize="14" />
+
+            </StackPanel>
+            <StackPanel Height="20">
+            </StackPanel>
+            <StackPanel Orientation="Horizontal"
+                        Margin="0,5,0,0">
+                <Label Content=" producto"
+                   Margin="525,0,10,0"
+                   FontSize="14"
+                   VerticalAlignment="Center" 
+                   FontFamily="Quicksand" 
+                   FontWeight="Bold" />
+                <Button x:Name="btn_editprod" 
+                 Click="btn_editprod_Click"
+                    Grid.Row="0"
+                    Grid.Column="0"
+                    Grid.ColumnSpan="2"
+                    HorizontalAlignment="Right"
+                    IsTabStop="False"
+                    Content="Guardar"
+                    Margin="10,5,5,5"
+                    Padding="0"
+                    Height="25"
+                    Width="75" FontSize="14" 
+                    FontFamily="Inter" 
+                    Background="#FF4FB73A" 
+                    BorderBrush="Black" Foreground="White" />
+            </StackPanel>
+
+
+
+        </StackPanel>
+    </Grid>
+</Page>

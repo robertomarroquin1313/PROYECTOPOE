@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PROYECTO_INVENTARIOModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Detalle_Cliente">
+    <Key>
+      <PropertyRef Name="codclient" />
+    </Key>
+    <Property Name="codclient" Type="int" Nullable="false" />
+    <Property Name="nmclient" Type="varchar" MaxLength="50" />
+    <Property Name="tlclient" Type="varchar" MaxLength="15" />
+    <Property Name="drclient" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Detalle_Vendedor">
+    <Key>
+      <PropertyRef Name="codvendedor" />
+    </Key>
+    <Property Name="codvendedor" Type="int" Nullable="false" />
+    <Property Name="nmvendedor" Type="varchar" MaxLength="50" />
+    <Property Name="tlvendedor" Type="varchar" MaxLength="15" />
+    <Property Name="drvendedor" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Productos_Detalle">
+    <Key>
+      <PropertyRef Name="prodcodigo" />
+    </Key>
+    <Property Name="prodcodigo" Type="int" Nullable="false" />
+    <Property Name="prodnombre" Type="varchar" MaxLength="150" Nullable="false" />
+    <Property Name="prodcantidad" Type="int" Nullable="false" />
+    <Property Name="proddescripcion" Type="varchar" MaxLength="150" />
+    <Property Name="prodprecio" Type="numeric" Precision="5" Scale="2" Nullable="false" />
+    <Property Name="prodmarca" Type="varchar" MaxLength="150" />
+  </EntityType>
+  <EntityContainer Name="PROYECTO_INVENTARIOModelStoreContainer">
+    <EntitySet Name="Detalle_Cliente" EntityType="Self.Detalle_Cliente" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Detalle_Vendedor" EntityType="Self.Detalle_Vendedor" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Productos_Detalle" EntityType="Self.Productos_Detalle" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

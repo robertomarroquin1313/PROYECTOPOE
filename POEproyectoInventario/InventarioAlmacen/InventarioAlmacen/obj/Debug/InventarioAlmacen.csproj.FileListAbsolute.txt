@@ -1,0 +1,377 @@
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\InventarioAlmacen.exe.config
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\InventarioAlmacen.exe
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\InventarioAlmacen.pdb
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.AssemblyReference.cache
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.SuggestedBindingRedirects.cache
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Loginvista.g.cs
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\App.g.cs
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen_MarkupCompile.cache
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen_MarkupCompile.lref
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Loginvista.baml
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.g.resources
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.Properties.Resources.resources
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.GenerateResource.cache
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.exe
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.pdb
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\ControlzEx.dll
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MahApps.Metro.dll
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignColors.dll
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\ControlzEx.pdb
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\ControlzEx.xml
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MahApps.Metro.pdb
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MahApps.Metro.xml
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignColors.pdb
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\App.baml
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.CopyComplete
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Themes\Generic.baml
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Mainmenuvista.g.cs
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Mainmenuvista.baml
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PageHome.g.cs
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PageHome.baml
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaEditar_Eliminar.g.cs
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaEditar_Eliminar.baml
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaNuevo.g.cs
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaNuevo.baml
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaReporte.g.cs
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaReporte.baml
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaMostrar.g.cs
+C:\Users\balmo\Documents\CICLO 2-2022\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaMostrar.baml
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.AssemblyReference.cache
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.SuggestedBindingRedirects.cache
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Loginvista.g.cs
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Mainmenuvista.g.cs
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaNuevo.g.cs
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaMostrar.g.cs
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaEditar_Eliminar.g.cs
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaReporte.g.cs
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PageHome.g.cs
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\App.g.cs
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen_Content.g.cs
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen_MarkupCompile.cache
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen_MarkupCompile.lref
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.exe
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.pdb
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\InventarioAlmacen.exe.config
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\InventarioAlmacen.exe
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\InventarioAlmacen.pdb
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\ControlzEx.dll
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\EntityFramework.dll
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MahApps.Metro.dll
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignColors.dll
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\ControlzEx.pdb
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\ControlzEx.xml
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\EntityFramework.xml
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MahApps.Metro.pdb
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MahApps.Metro.xml
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignColors.pdb
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\App.baml
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Loginvista.baml
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Mainmenuvista.baml
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaNuevo.baml
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaMostrar.baml
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaEditar_Eliminar.baml
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaReporte.baml
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PageHome.baml
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Themes\Generic.baml
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.g.resources
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.Properties.Resources.resources
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.GenerateResource.cache
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\balmo\Documents\CICLO 2-2022\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.CopyComplete
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\InventarioAlmacen.exe.config
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\InventarioAlmacen.exe
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\InventarioAlmacen.pdb
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\ControlzEx.dll
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\EntityFramework.dll
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MahApps.Metro.dll
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignColors.dll
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\ControlzEx.pdb
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\ControlzEx.xml
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\EntityFramework.xml
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MahApps.Metro.pdb
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MahApps.Metro.xml
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignColors.pdb
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csprojAssemblyReference.cache
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Loginvista.g.cs
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Mainmenuvista.g.cs
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaNuevo.g.cs
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaMostrar.g.cs
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaEditar_Eliminar.g.cs
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaReporte.g.cs
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PageHome.g.cs
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\App.g.cs
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen_Content.g.cs
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen_MarkupCompile.cache
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen_MarkupCompile.lref
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\App.baml
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Loginvista.baml
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Mainmenuvista.baml
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaNuevo.baml
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaMostrar.baml
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaEditar_Eliminar.baml
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaReporte.baml
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PageHome.baml
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Themes\Generic.baml
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.g.resources
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.Properties.Resources.resources
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.GenerateResource.cache
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.CopyComplete
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.exe
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.pdb
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\editarprod.g.cs
+C:\Users\renes\OneDrive\Documentos\Escritorio\Ciclo 4\orientada a eventos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\editarprod.baml
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\InventarioAlmacen.exe.config
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\InventarioAlmacen.exe
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\InventarioAlmacen.pdb
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\ControlzEx.dll
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\EntityFramework.dll
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MahApps.Metro.dll
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignColors.dll
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\ControlzEx.pdb
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\ControlzEx.xml
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\EntityFramework.xml
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MahApps.Metro.pdb
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MahApps.Metro.xml
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignColors.pdb
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Loginvista.g.cs
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Mainmenuvista.g.cs
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\editarprod.g.cs
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaNuevo.g.cs
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaMostrar.g.cs
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaEditar_Eliminar.g.cs
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaReporte.g.cs
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PageHome.g.cs
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\App.g.cs
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen_Content.g.cs
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen_MarkupCompile.cache
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen_MarkupCompile.lref
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\App.baml
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Loginvista.baml
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Mainmenuvista.baml
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\editarprod.baml
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaNuevo.baml
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaMostrar.baml
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaEditar_Eliminar.baml
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaReporte.baml
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PageHome.baml
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Themes\Generic.baml
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.g.resources
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.Properties.Resources.resources
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.CopyComplete
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.exe
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.pdb
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\editarVendedor.g.cs
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\editarVendedor.baml
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\editarClientes.g.cs
+C:\Users\rober\OneDrive\Documentos\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\editarClientes.baml
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\InventarioAlmacen.exe.config
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\InventarioAlmacen.exe
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\InventarioAlmacen.pdb
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\ControlzEx.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\EntityFramework.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MahApps.Metro.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignColors.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\stdole.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\ControlzEx.pdb
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\ControlzEx.xml
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\EntityFramework.xml
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MahApps.Metro.pdb
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MahApps.Metro.xml
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.AssemblyReference.cache
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Loginvista.g.cs
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Mainmenuvista.g.cs
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\editarClientes.g.cs
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\editarprod.g.cs
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\editarVendedor.g.cs
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaNuevo.g.cs
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaMostrar.g.cs
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaEditar_Eliminar.g.cs
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaReporte.g.cs
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PageHome.g.cs
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\App.g.cs
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen_Content.g.cs
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen_MarkupCompile.cache
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen_MarkupCompile.lref
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\App.baml
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Loginvista.baml
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Mainmenuvista.baml
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\editarClientes.baml
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\editarprod.baml
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\editarVendedor.baml
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaNuevo.baml
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaMostrar.baml
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaEditar_Eliminar.baml
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaReporte.baml
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PageHome.baml
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Themes\Generic.baml
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.g.resources
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.Properties.Resources.resources
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.GenerateResource.cache
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.CopyComplete
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.exe
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.pdb
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\ViewerProducto.g.cs
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\ViewerProducto.baml
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\ViewerVendedor.g.cs
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\ViewerVendedor.baml
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\ViewerCliente.g.cs
+C:\Users\Ariel Carbajal\Desktop\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\ViewerCliente.baml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\InventarioAlmacen.exe.config
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\InventarioAlmacen.exe
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\InventarioAlmacen.pdb
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\ControlzEx.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\EntityFramework.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MahApps.Metro.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignColors.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\sapbusinessobjects.wpf.viewer.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\stdole.dll
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\ControlzEx.pdb
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\ControlzEx.xml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\EntityFramework.xml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MahApps.Metro.pdb
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MahApps.Metro.xml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignColors.pdb
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.AssemblyReference.cache
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Loginvista.g.cs
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Mainmenuvista.g.cs
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\editarClientes.g.cs
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\editarprod.g.cs
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\editarVendedor.g.cs
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaNuevo.g.cs
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaMostrar.g.cs
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaEditar_Eliminar.g.cs
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaReporte.g.cs
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PageHome.g.cs
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\ViewerCliente.g.cs
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\ViewerProducto.g.cs
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\ViewerVendedor.g.cs
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\App.g.cs
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen_Content.g.cs
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen_MarkupCompile.cache
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen_MarkupCompile.lref
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\App.baml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Loginvista.baml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Mainmenuvista.baml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\editarClientes.baml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\editarprod.baml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\editarVendedor.baml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaNuevo.baml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaMostrar.baml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaEditar_Eliminar.baml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PaginaReporte.baml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\PageHome.baml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\ViewerCliente.baml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\ViewerProducto.baml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Pages\ViewerVendedor.baml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\Themes\Generic.baml
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.g.resources
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.Properties.Resources.resources
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.GenerateResource.cache
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.csproj.CopyComplete
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.exe
+C:\Users\rober\Downloads\COPYPROYECTOPOE\POEproyectoInventario\InventarioAlmacen\InventarioAlmacen\obj\Debug\InventarioAlmacen.pdb
